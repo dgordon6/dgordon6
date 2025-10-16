@@ -4,6 +4,8 @@
 
 - <b>Active Directory</b>
   - [Unlocking end-users account and resetting password](https://github.com/dgordon6/osticket-prereqs)
+- <b>Secure Shell</b>
+  - [Observing SSH Traffic](https://github.com/dgordon6/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
