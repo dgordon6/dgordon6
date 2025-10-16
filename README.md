@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [Unlocking end-users account and resetting password](https://github.com/dgordon6/osticket-prereqs)
 - <b>Secure Shell</b>
-  - [Observing SSH Traffic](https://https://github.com/dgordon6/observe-ssh-traffic)
+  - [Observing SSH Traffic](https://github.com/dgordon6/observe-ssh-traffic)
 
 <h2>🤳Connect with me:</h2>
 
