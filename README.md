@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Unlocking end-users account and resetting password](https://github.com/dgordon6/Joining-a-machine-to-a-domain)
-  - [Adding a Machine to a Domain](https://github.com/dgordon6/osticket-prereqs)
+  - [Joining a Machine to a Domain](https://github.com/dgordon6/Joining-a-machine-to-a-domain)
+  - [Unlocking end-users account and resetting password](https://github.com/dgordon6/osticket-prereqs)
 - <b>Secure Shell</b>
   - [Observing SSH Traffic](https://github.com/dgordon6/observe-ssh-traffic)
 
