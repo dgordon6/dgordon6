@@ -5,6 +5,8 @@
 - <b>Active Directory</b>
   - [Joining a Machine to a Domain](https://github.com/dgordon6/Joining-a-machine-to-a-domain)
   - [Unlocking end-users account and resetting password](https://github.com/dgordon6/osticket-prereqs)
+- <b>Group Policy Management</b>
+  - [Group Policy Management Security Policy Basics](https://github.com/dgordon6/group-policy-management-basics)
 - <b>Secure Shell</b>
   - [Observing SSH Traffic](https://github.com/dgordon6/observe-ssh-traffic)
 
