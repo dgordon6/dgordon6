@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
+  - [Creating Organizational Units in Active Directory](https://github.com/dgordon6/creating-organizational-units-in-active-directory)
   - [Joining a Machine to a Domain](https://github.com/dgordon6/Joining-a-machine-to-a-domain)
   - [Unlocking end-users account and resetting password](https://github.com/dgordon6/osticket-prereqs)
 - <b>Group Policy Management</b>
